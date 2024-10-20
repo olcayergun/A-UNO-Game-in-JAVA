@@ -1,0 +1,26 @@
+2024.05.14.09.53.02 Start
+2024.05.14.09.53.02 Login starts...
+2024.05.14.09.53.02 Read all line of the file: users.txt
+2024.05.14.09.53.02 An exception while reading all lines of the filenmae :users.txt
+2024.05.14.09.53.02 users.txt (Sistem belirtilen dosyayı bulamıyor)
+2024.05.14.09.53.02 DONE: Read all line of the file: users.txt
+2024.05.14.09.53.02 An exception while getting all user data.
+2024.05.14.09.53.02 Cannot invoke "java.util.ArrayList.iterator()" because "userlines" is null
+2024.05.14.09.53.02 All user data is gotten
+2024.05.14.09.53.23 User checking is done. (false)
+2024.05.14.09.53.23 A new user NOT signed in.(a)
+2024.05.14.09.53.29 User checking is done. (false)
+2024.05.14.09.53.29 A new user NOT signed in.(a)
+2024.05.14.09.54.22 Start
+2024.05.14.09.54.22 Login starts...
+2024.05.14.09.54.22 Read all line of the file: ../users.txt
+2024.05.14.09.54.22 DONE: Read all line of the file: ../users.txt
+2024.05.14.09.54.22 All user data is gotten
+2024.05.14.09.54.23 User checking is done. (true)
+2024.05.14.09.54.23 A new user signed in.(a)
+2024.05.14.09.54.23 Going to Main Frame...
+2024.05.14.09.54.23 Main starts...
+2024.05.14.09.54.23 Read all line of the file: ../users.txt
+2024.05.14.09.54.23 DONE: Read all line of the file: ../users.txt
+2024.05.14.09.54.23 All user data is gotten
+2024.05.14.09.54.23 / by zero
